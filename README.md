@@ -1,7 +1,7 @@
 [README (1).md](https://github.com/user-attachments/files/23752786/README.1.md)
-# Python CLI Calculator
+# Simple Python Calculator
 
-This is a simple command-line calculator written in Python. It allows users to perform basic arithmetic operations including addition, subtraction, multiplication, and division. The program continues running until the user chooses to exit.
+This is a simple calculator written in Python. It allows users to perform basic arithmetic operations including addition, subtraction, multiplication, and division. The program continues running until the user chooses to exit.
 
 ## Features
 
