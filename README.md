@@ -53,10 +53,10 @@ Do another calculation? (yes/no): no
 
 ## Purpose
 
-This project is ideal for beginners learning:
+
 
 - Python functions  
 - User input handling  
 - Basic control structures such as loops and conditionals
 
-Feel free to modify and extend the calculator with additional mathematical operations or a graphical interface.
+
